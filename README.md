@@ -1,7 +1,7 @@
 # Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Valle05211261]
 
 ## Autor
-Nombre completo
+Acosta Berrelleza Kenia Celeste
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo@tectijuana.edu.mx
 
